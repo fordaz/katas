@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -e
+
+go get github.com/onsi/ginkgo/ginkgo
+go get github.com/onsi/gomega
+
+pushd src/github.com/fordaz/elevator-kata
+  ginkgo -r -keepGoing -p -trace -randomizeAllSpecs -progress "$@"
+popd
