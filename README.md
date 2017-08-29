@@ -16,3 +16,4 @@ History Changes
 - 1.3 update
 - 1.4 update
 - 1.5 update
+- 1.6 update
