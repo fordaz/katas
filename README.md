@@ -10,5 +10,6 @@ Problem Description:
 	- Show a basic simulation how the elevator goes up/down according to requests.
 
 History Changes
-1.0 initial repo
-1.1 update
+- 1.0 initial repo
+- 1.1 update
+- 1.2 update
